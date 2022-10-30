@@ -1,4 +1,4 @@
-T&C Generator
+Barcode Generator
 ==============
 
 ## Setup
